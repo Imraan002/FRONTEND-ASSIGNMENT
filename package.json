@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@rjsf/core": "^5.6.2",
+    "ace-builds": "^1.18.0",
+    "react": "^18.2.0",
+    "react-ace": "^10.1.0",
+    "react-dom": "^18.2.0",
+    "react-json-editor-ajrm": "^2.5.14",
+    "react-jsonschema-form": "^1.8.1"
+  }
+}
